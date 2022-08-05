@@ -1,0 +1,387 @@
+\begin{theindex}
+
+  \item {\_CRT\_SECURE\_NO\_WARNINGS}
+    \subitem {dllmain.c}, \hyperpage{36}
+
+  \indexspace
+
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\//dllmain.cpp}, 
+		\hyperpage{33}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\//framework.h}, 
+		\hyperpage{35}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\//pch.cpp}, 
+		\hyperpage{36}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\//pch.h}, 
+		\hyperpage{36}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/c-\/dll/dllmain.c}, 
+		\hyperpage{36}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/c-\/dll/Üst Bilgi.h}, 
+		\hyperpage{36}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/cpp-\/dll/dllmain.cpp}, 
+		\hyperpage{33}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/cpp-\/dll/Üst Bilgi2.h}, 
+		\hyperpage{37}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/cs-\/dll/Class1.cs}, 
+		\hyperpage{37}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/cs-\/dll/Class2.cs}, 
+		\hyperpage{37}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/cs-\/dll/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs}, 
+		\hyperpage{38}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/cs-\/dll/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs}, 
+		\hyperpage{38}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/cs-\/dll/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs}, 
+		\hyperpage{38}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/cs-\/dll/obj/Release/.NETFramework,Version=v4.8.AssemblyAttributes.cs}, 
+		\hyperpage{38}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/cs-\/dll/Properties/AssemblyInfo.cs}, 
+		\hyperpage{38}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/test/ce103-\/hw4-\/test.cs}, 
+		\hyperpage{38}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/test/ce103\_hw4\_testBase.cs}, 
+		\hyperpage{39}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/test/ce103\_hw4\_testBaseBase.cs}, 
+		\hyperpage{39}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/test/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs}, 
+		\hyperpage{38}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/test/obj/Release/.NETFramework,Version=v4.8.AssemblyAttributes.cs}, 
+		\hyperpage{38}
+  \item {C:/Software/a/CE103-\/HW4-\/Fahrettin-\/Solak/ce103-\/hw4-\/test/Properties/AssemblyInfo.cs}, 
+		\hyperpage{38}
+  \item {ce103\_bin2hex\_cpp}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{26}
+    \subitem {dllmain.cpp}, \hyperpage{34}
+  \item {ce103\_bin2hex\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103func}, \hyperpage{30}
+  \item {ce103\_bin2hex\_cs\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{26}
+  \item {ce103\_bin2hex\_cs\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{12}
+  \item {ce103\_bin2hex\_cs\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{12}
+  \item {ce103\_bin2hex\_cs\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{13}
+  \item {ce103\_bin2hex\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{13}
+  \item {ce103\_bin2hex\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{13}
+  \item {ce103\_bin2hex\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{13}
+  \item {ce103\_bin2hex\_cs\_vs\_cscs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{13}
+  \item {ce103\_bin2hex\_cs\_vs\_cscs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{13}
+  \item {ce103\_bin2hex\_cs\_vs\_cscs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{14}
+  \item {ce103\_fibonacciNumber\_cpp}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{26}
+    \subitem {dllmain.cpp}, \hyperpage{34}
+  \item {ce103\_fibonacciNumber\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103func}, \hyperpage{30}
+  \item {ce103\_fibonacciNumber\_cs\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{27}
+  \item {ce103\_fibonacciNumber\_cs\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{14}
+  \item {ce103\_fibonacciNumber\_cs\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{14}
+  \item {ce103\_fibonacciNumber\_cs\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{14}
+  \item {ce103\_fibonacciNumber\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{14}
+  \item {ce103\_fibonacciNumber\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{14}
+  \item {ce103\_fibonacciNumber\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{15}
+  \item {ce103\_fibonacciNumber\_cs\_vs\_cscs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{15}
+  \item {ce103\_fibonacciNumber\_cs\_vs\_cscs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{15}
+  \item {ce103\_fibonacciNumber\_cs\_vs\_cscs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{15}
+  \item {ce103\_hex2bin\_cpp}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{27}
+    \subitem {dllmain.cpp}, \hyperpage{34}
+  \item {ce103\_hex2bin\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103func}, \hyperpage{31}
+  \item {ce103\_hex2bin\_cs\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{27}
+  \item {ce103\_hex2bin\_cs\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{15}
+  \item {ce103\_hex2bin\_cs\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{15}
+  \item {ce103\_hex2bin\_cs\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{16}
+  \item {ce103\_hex2bin\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{16}
+  \item {ce103\_hex2bin\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{16}
+  \item {ce103\_hex2bin\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{16}
+  \item {ce103\_hex2bin\_cs\_vs\_cscs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{16}
+  \item {ce103\_hex2bin\_cs\_vs\_cscs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{16}
+  \item {ce103\_hex2bin\_cs\_vs\_cscs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{17}
+  \item {ce103\_hw4\_cs\_dll}, \hyperpage{9}
+  \item {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{26}
+    \subitem {ce103\_bin2hex\_cpp}, \hyperpage{26}
+    \subitem {ce103\_bin2hex\_cs\_cs}, \hyperpage{26}
+    \subitem {ce103\_fibonacciNumber\_cpp}, \hyperpage{26}
+    \subitem {ce103\_fibonacciNumber\_cs\_cs}, \hyperpage{27}
+    \subitem {ce103\_hex2bin\_cpp}, \hyperpage{27}
+    \subitem {ce103\_hex2bin\_cs\_cs}, \hyperpage{27}
+    \subitem {ce103\_strcat\_cpp}, \hyperpage{27}
+    \subitem {ce103\_strcat\_cs\_cs}, \hyperpage{28}
+    \subitem {ce103\_strcmp\_cpp}, \hyperpage{28}
+    \subitem {ce103\_strcmp\_cs\_cs}, \hyperpage{28}
+    \subitem {ce103\_strcpy\_cpp}, \hyperpage{28}
+    \subitem {ce103\_strcpy\_cs\_cs}, \hyperpage{29}
+    \subitem {ce103\_strlen\_cpp}, \hyperpage{29}
+    \subitem {ce103\_strlen\_cs\_cs}, \hyperpage{29}
+    \subitem {ce103\_strrev\_cpp}, \hyperpage{29}
+    \subitem {ce103\_strrev\_cs\_cs}, \hyperpage{29}
+  \item {ce103\_hw4\_cs\_dll.ce103func}, \hyperpage{30}
+    \subitem {ce103\_bin2hex\_cs}, \hyperpage{30}
+    \subitem {ce103\_fibonacciNumber\_cs}, \hyperpage{30}
+    \subitem {ce103\_hex2bin\_cs}, \hyperpage{31}
+    \subitem {ce103\_strcat\_cs}, \hyperpage{31}
+    \subitem {ce103\_strcmp\_cs}, \hyperpage{31}
+    \subitem {ce103\_strcpy\_cs}, \hyperpage{31}
+    \subitem {ce103\_strlen\_cs}, \hyperpage{32}
+    \subitem {ce103\_strrev\_cs}, \hyperpage{32}
+  \item {ce103\_hw4\_test}, \hyperpage{9}
+  \item {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{11}
+    \subitem {ce103\_bin2hex\_cs\_cs\_test1}, \hyperpage{12}
+    \subitem {ce103\_bin2hex\_cs\_cs\_test2}, \hyperpage{12}
+    \subitem {ce103\_bin2hex\_cs\_cs\_test3}, \hyperpage{13}
+    \subitem {ce103\_bin2hex\_cs\_test1}, \hyperpage{13}
+    \subitem {ce103\_bin2hex\_cs\_test2}, \hyperpage{13}
+    \subitem {ce103\_bin2hex\_cs\_test3}, \hyperpage{13}
+    \subitem {ce103\_bin2hex\_cs\_vs\_cscs\_test1}, \hyperpage{13}
+    \subitem {ce103\_bin2hex\_cs\_vs\_cscs\_test2}, \hyperpage{13}
+    \subitem {ce103\_bin2hex\_cs\_vs\_cscs\_test3}, \hyperpage{14}
+    \subitem {ce103\_fibonacciNumber\_cs\_cs\_test1}, \hyperpage{14}
+    \subitem {ce103\_fibonacciNumber\_cs\_cs\_test2}, \hyperpage{14}
+    \subitem {ce103\_fibonacciNumber\_cs\_cs\_test3}, \hyperpage{14}
+    \subitem {ce103\_fibonacciNumber\_cs\_test1}, \hyperpage{14}
+    \subitem {ce103\_fibonacciNumber\_cs\_test2}, \hyperpage{14}
+    \subitem {ce103\_fibonacciNumber\_cs\_test3}, \hyperpage{15}
+    \subitem {ce103\_fibonacciNumber\_cs\_vs\_cscs\_test1}, 
+		\hyperpage{15}
+    \subitem {ce103\_fibonacciNumber\_cs\_vs\_cscs\_test2}, 
+		\hyperpage{15}
+    \subitem {ce103\_fibonacciNumber\_cs\_vs\_cscs\_test3}, 
+		\hyperpage{15}
+    \subitem {ce103\_hex2bin\_cs\_cs\_test1}, \hyperpage{15}
+    \subitem {ce103\_hex2bin\_cs\_cs\_test2}, \hyperpage{15}
+    \subitem {ce103\_hex2bin\_cs\_cs\_test3}, \hyperpage{16}
+    \subitem {ce103\_hex2bin\_cs\_test1}, \hyperpage{16}
+    \subitem {ce103\_hex2bin\_cs\_test2}, \hyperpage{16}
+    \subitem {ce103\_hex2bin\_cs\_test3}, \hyperpage{16}
+    \subitem {ce103\_hex2bin\_cs\_vs\_cscs\_test1}, \hyperpage{16}
+    \subitem {ce103\_hex2bin\_cs\_vs\_cscs\_test2}, \hyperpage{16}
+    \subitem {ce103\_hex2bin\_cs\_vs\_cscs\_test3}, \hyperpage{17}
+    \subitem {ce103\_strcat\_cs\_cs\_test2}, \hyperpage{17}
+    \subitem {ce103\_strcat\_cs\_cs\_test3}, \hyperpage{17}
+    \subitem {ce103\_strcat\_cs\_test1}, \hyperpage{17}
+    \subitem {ce103\_strcat\_cs\_test2}, \hyperpage{17}
+    \subitem {ce103\_strcat\_cs\_test3}, \hyperpage{17}
+    \subitem {ce103\_strcat\_cs\_vs\_cscs\_test1}, \hyperpage{18}
+    \subitem {ce103\_strcat\_cs\_vs\_cscs\_test2}, \hyperpage{18}
+    \subitem {ce103\_strcat\_cs\_vs\_cscs\_test3}, \hyperpage{18}
+    \subitem {ce103\_strcmp\_cs\_cs\_test1}, \hyperpage{18}
+    \subitem {ce103\_strcmp\_cs\_cs\_test2}, \hyperpage{18}
+    \subitem {ce103\_strcmp\_cs\_cs\_test3}, \hyperpage{18}
+    \subitem {ce103\_strcmp\_cs\_test1}, \hyperpage{19}
+    \subitem {ce103\_strcmp\_cs\_test2}, \hyperpage{19}
+    \subitem {ce103\_strcmp\_cs\_test3}, \hyperpage{19}
+    \subitem {ce103\_strcmp\_cs\_vs\_cscs\_test1}, \hyperpage{19}
+    \subitem {ce103\_strcmp\_cs\_vs\_cscs\_test2}, \hyperpage{19}
+    \subitem {ce103\_strcmp\_cs\_vs\_cscs\_test3}, \hyperpage{19}
+    \subitem {ce103\_strcpy\_cs\_cs\_test1}, \hyperpage{20}
+    \subitem {ce103\_strcpy\_cs\_cs\_test2}, \hyperpage{20}
+    \subitem {ce103\_strcpy\_cs\_cs\_test3}, \hyperpage{20}
+    \subitem {ce103\_strcpy\_cs\_test1}, \hyperpage{20}
+    \subitem {ce103\_strcpy\_cs\_test2}, \hyperpage{20}
+    \subitem {ce103\_strcpy\_cs\_test3}, \hyperpage{20}
+    \subitem {ce103\_strcpy\_cs\_vs\_cscs\_test1}, \hyperpage{21}
+    \subitem {ce103\_strcpy\_cs\_vs\_cscs\_test2}, \hyperpage{21}
+    \subitem {ce103\_strcpy\_cs\_vs\_cscs\_test3}, \hyperpage{21}
+    \subitem {ce103\_strlen\_cs\_cs\_test1}, \hyperpage{21}
+    \subitem {ce103\_strlen\_cs\_cs\_test2}, \hyperpage{21}
+    \subitem {ce103\_strlen\_cs\_cs\_test3}, \hyperpage{21}
+    \subitem {ce103\_strlen\_cs\_test1}, \hyperpage{22}
+    \subitem {ce103\_strlen\_cs\_test2}, \hyperpage{22}
+    \subitem {ce103\_strlen\_cs\_test3}, \hyperpage{22}
+    \subitem {ce103\_strlen\_cs\_vs\_cscs\_test1}, \hyperpage{22}
+    \subitem {ce103\_strlen\_cs\_vs\_cscs\_test2}, \hyperpage{22}
+    \subitem {ce103\_strlen\_cs\_vs\_cscs\_test3}, \hyperpage{22}
+    \subitem {ce103\_strrev\_cs\_cs\_test1}, \hyperpage{23}
+    \subitem {ce103\_strrev\_cs\_cs\_test2}, \hyperpage{23}
+    \subitem {ce103\_strrev\_cs\_cs\_test3}, \hyperpage{23}
+    \subitem {ce103\_strrev\_cs\_test1}, \hyperpage{23}
+    \subitem {ce103\_strrev\_cs\_test2}, \hyperpage{23}
+    \subitem {ce103\_strrev\_cs\_test3}, \hyperpage{23}
+    \subitem {ce103\_strrev\_cs\_vs\_cscs\_test1}, \hyperpage{24}
+    \subitem {ce103\_strrev\_cs\_vs\_cscs\_test2}, \hyperpage{24}
+  \item {ce103\_hw4\_test.ce103\_hw4\_testBase}, \hyperpage{24}
+    \subitem {ce103\_strcat\_cs\_cs\_test1}, \hyperpage{24}
+    \subitem {ce103\_strrev\_cs\_vs\_cscs\_test3}, \hyperpage{25}
+  \item {ce103\_hw4\_test.ce103\_hw4\_testBaseBase}, \hyperpage{25}
+    \subitem {ce103\_strrev\_cs\_vs\_cscs\_test3}, \hyperpage{25}
+  \item {ce103\_strcat\_cpp}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{27}
+    \subitem {dllmain.cpp}, \hyperpage{34}
+  \item {ce103\_strcat\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103func}, \hyperpage{31}
+  \item {ce103\_strcat\_cs\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{28}
+  \item {ce103\_strcat\_cs\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_testBase}, \hyperpage{24}
+  \item {ce103\_strcat\_cs\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{17}
+  \item {ce103\_strcat\_cs\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{17}
+  \item {ce103\_strcat\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{17}
+  \item {ce103\_strcat\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{17}
+  \item {ce103\_strcat\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{17}
+  \item {ce103\_strcat\_cs\_vs\_cscs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{18}
+  \item {ce103\_strcat\_cs\_vs\_cscs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{18}
+  \item {ce103\_strcat\_cs\_vs\_cscs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{18}
+  \item {ce103\_strcmp\_cpp}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{28}
+    \subitem {dllmain.cpp}, \hyperpage{34}
+  \item {ce103\_strcmp\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103func}, \hyperpage{31}
+  \item {ce103\_strcmp\_cs\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{28}
+  \item {ce103\_strcmp\_cs\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{18}
+  \item {ce103\_strcmp\_cs\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{18}
+  \item {ce103\_strcmp\_cs\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{18}
+  \item {ce103\_strcmp\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{19}
+  \item {ce103\_strcmp\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{19}
+  \item {ce103\_strcmp\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{19}
+  \item {ce103\_strcmp\_cs\_vs\_cscs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{19}
+  \item {ce103\_strcmp\_cs\_vs\_cscs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{19}
+  \item {ce103\_strcmp\_cs\_vs\_cscs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{19}
+  \item {ce103\_strcpy\_cpp}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{28}
+    \subitem {dllmain.cpp}, \hyperpage{35}
+  \item {ce103\_strcpy\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103func}, \hyperpage{31}
+  \item {ce103\_strcpy\_cs\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{29}
+  \item {ce103\_strcpy\_cs\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{20}
+  \item {ce103\_strcpy\_cs\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{20}
+  \item {ce103\_strcpy\_cs\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{20}
+  \item {ce103\_strcpy\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{20}
+  \item {ce103\_strcpy\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{20}
+  \item {ce103\_strcpy\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{20}
+  \item {ce103\_strcpy\_cs\_vs\_cscs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{21}
+  \item {ce103\_strcpy\_cs\_vs\_cscs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{21}
+  \item {ce103\_strcpy\_cs\_vs\_cscs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{21}
+  \item {ce103\_strlen\_cpp}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{29}
+    \subitem {dllmain.cpp}, \hyperpage{35}
+  \item {ce103\_strlen\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103func}, \hyperpage{32}
+  \item {ce103\_strlen\_cs\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{29}
+  \item {ce103\_strlen\_cs\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{21}
+  \item {ce103\_strlen\_cs\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{21}
+  \item {ce103\_strlen\_cs\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{21}
+  \item {ce103\_strlen\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{22}
+  \item {ce103\_strlen\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{22}
+  \item {ce103\_strlen\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{22}
+  \item {ce103\_strlen\_cs\_vs\_cscs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{22}
+  \item {ce103\_strlen\_cs\_vs\_cscs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{22}
+  \item {ce103\_strlen\_cs\_vs\_cscs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{22}
+  \item {ce103\_strrev\_cpp}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{29}
+    \subitem {dllmain.cpp}, \hyperpage{35}
+  \item {ce103\_strrev\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103func}, \hyperpage{32}
+  \item {ce103\_strrev\_cs\_cs}
+    \subitem {ce103\_hw4\_cs\_dll.ce103CsFunctions}, \hyperpage{29}
+  \item {ce103\_strrev\_cs\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{23}
+  \item {ce103\_strrev\_cs\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{23}
+  \item {ce103\_strrev\_cs\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{23}
+  \item {ce103\_strrev\_cs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{23}
+  \item {ce103\_strrev\_cs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{23}
+  \item {ce103\_strrev\_cs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{23}
+  \item {ce103\_strrev\_cs\_vs\_cscs\_test1}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{24}
+  \item {ce103\_strrev\_cs\_vs\_cscs\_test2}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_test}, \hyperpage{24}
+  \item {ce103\_strrev\_cs\_vs\_cscs\_test3}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_testBase}, \hyperpage{25}
+    \subitem {ce103\_hw4\_test.ce103\_hw4\_testBaseBase}, 
+		\hyperpage{25}
+
+  \indexspace
+
+  \item {DllMain}
+    \subitem {dllmain.cpp}, \hyperpage{33}
+  \item {dllmain.c}
+    \subitem {\_CRT\_SECURE\_NO\_WARNINGS}, \hyperpage{36}
+  \item {dllmain.cpp}
+    \subitem {ce103\_bin2hex\_cpp}, \hyperpage{34}
+    \subitem {ce103\_fibonacciNumber\_cpp}, \hyperpage{34}
+    \subitem {ce103\_hex2bin\_cpp}, \hyperpage{34}
+    \subitem {ce103\_strcat\_cpp}, \hyperpage{34}
+    \subitem {ce103\_strcmp\_cpp}, \hyperpage{34}
+    \subitem {ce103\_strcpy\_cpp}, \hyperpage{35}
+    \subitem {ce103\_strlen\_cpp}, \hyperpage{35}
+    \subitem {ce103\_strrev\_cpp}, \hyperpage{35}
+    \subitem {DllMain}, \hyperpage{33}
+
+  \indexspace
+
+  \item {framework.h}
+    \subitem {WIN32\_LEAN\_AND\_MEAN}, \hyperpage{35}
+
+  \indexspace
+
+  \item {WIN32\_LEAN\_AND\_MEAN}
+    \subitem {framework.h}, \hyperpage{35}
+
+\end{theindex}
