@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce205-2022-2023-hw4-algo-test", "ce205-2022-2023-hw4-algo-test\ce205-2022-2023-hw4-algo-test.csproj", "{35A454EC-A100-402A-932B-855E1BEC977E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce205-2022-2023-hw4-algo-gui", "ce205-2022-2023-hw4-algo-gui\ce205-2022-2023-hw4-algo-gui.csproj", "{414CC288-F85B-43B6-982A-7BCDF84D64AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A454EC-A100-402A-932B-855E1BEC977E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A454EC-A100-402A-932B-855E1BEC977E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A454EC-A100-402A-932B-855E1BEC977E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A454EC-A100-402A-932B-855E1BEC977E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414CC288-F85B-43B6-982A-7BCDF84D64AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414CC288-F85B-43B6-982A-7BCDF84D64AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414CC288-F85B-43B6-982A-7BCDF84D64AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414CC288-F85B-43B6-982A-7BCDF84D64AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {326CFEB9-117A-4379-B312-340B6D3F5FCC}
+	EndGlobalSection
+EndGlobal

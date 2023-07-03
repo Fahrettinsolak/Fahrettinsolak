@@ -1,0 +1,214 @@
+// Hospital system - sample UML class diagram in Umple
+
+class Hospital
+{
+  1 <@>- * Department;
+  String name;
+  String address;
+  String phone;
+         * -- * Person;
+}
+
+// Subsections within the hospital.
+class Department
+{
+     1 <@>- * Staff;
+  
+     }
+
+// The people who work at the hospital.
+class Staff
+{
+    isA Person;
+  Date joined;
+  String education;
+  String certification;
+  String languages;
+              
+}
+
+// Working shifts that the employees have.
+class Person
+{
+  String title;
+  String givenName;
+  String middleName;
+  String familyName;
+  String name;
+  Date birthDate;
+  String gender;
+  String homeAddress;
+  String phone;
+}
+
+// Various privileges and roles that the employees have.
+class AdministrativeStaff
+{
+       isA Staff;
+}
+
+// Specialized employee who looks after patients.
+class Doctor
+{
+    isA OperationsStaff;
+String specialty;
+  String locations;
+      
+}
+
+// Specialized doctor who performs advanced procedures on patients.
+class TechnicalStaff
+{
+      
+  isA Staff;
+}
+
+// Employee who maintains the cleanliness of the hospital.
+class OperationsStaff
+{
+      
+  isA Staff;
+  * -- * Patient;
+}
+
+// Patient who is at the hospital to get better.
+class Patient
+{
+    isA Person;
+String id;
+  String name;
+  String gender;
+  Date birthDate;
+  Integer age;
+  Date accepted;
+  String sickness;
+  String prescriptions;
+  String allergies;
+  String specialReqs;
+     }
+class Nurse
+{
+  isA OperationsStaff;
+}
+
+class FrontDeskStaff
+{
+  isA AdministrativeStaff;
+}
+
+class Technician
+{
+  isA TechnicalStaff;
+}
+
+class Technologist
+{
+  isA TechnicalStaff;
+}
+
+class Surgeon
+{
+  isA Doctor;
+}
+
+class Receptionist
+{
+   
+  isA FrontDeskStaff;
+}
+
+class SurgicalTechnologist
+{
+  isA Technologist;
+}
+
+//$?[End_of_model]$?
+
+namespace -;
+
+
+class Hospital
+{
+  position 490 11 140.075 92.4625;
+      position.association Hospital__Person 0,48 167,45;
+  position.association Department__Hospital 95,92 82,0;
+}
+
+class Doctor
+{
+  position 77 571 134.238 75.4625;
+}
+
+class Patient
+{
+  position 33 227 161.012 211.462;
+  }
+
+
+class Person
+{
+  position 123 8 178.613 194.462;
+}
+
+class Staff
+{
+  position 472 320 109 109.463;
+        }
+
+class Department
+{
+  position 505 165 109 41.4625;
+    position.association Hospital__Department 30,0 44,41;
+  position.association Department__Staff 87,41 120,0;
+}
+
+class OperationsStaff
+{
+  position 199 490 127.6 41.4625;
+  position.association OperationsStaff__Patient 0,8 129,211;
+}
+
+class AdministrativeStaff
+{
+  position 471 476 151.438 41.4625;
+}
+
+class TechnicalStaff
+{
+  position 766 479 115.825 41.4625;
+}
+
+class Nurse
+{
+  position 298 572 109 41.4625;
+}
+
+class FrontDeskStaff
+{
+  position 488 566 123.2 41.4625;
+}
+
+class Technician
+{
+  position 692 546 109 41.4625;
+}
+
+class Technologist
+{
+  position 888 556 109 41.4625;
+}
+
+class Surgeon
+{
+  position 88 679 109 41.4625;
+}
+
+class Receptionist
+{
+  position 491 660 109 41.4625;
+}
+
+class SurgicalTechnologist
+{
+  position 856 651 159.625 41.4625;
+}

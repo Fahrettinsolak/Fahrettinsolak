@@ -1,0 +1,124 @@
+class HospitalWards
+{
+  1 <@>- 1..* Team;
+  1 <@>- * Ward;
+  String name;
+  String address;
+  String phone;
+}
+
+class Team
+{
+  0..1 <@>- 0..* DoctorWards;
+  String name;
+}
+
+class Ward
+{
+  
+  String name;
+  String patientsGender;
+  Integer capacity;
+}
+
+class DoctorWards
+{
+  String specialty;
+  String locations;
+  * -- * PatientWards;
+}
+
+class ConsultantDoctor
+{
+  isA DoctorWards;
+  1 -- *  PatientWards;
+  1 -- 0..1 Team;
+}
+
+class JuniorDoctor
+{
+  isA DoctorWards;
+}
+
+class PatientWards
+{
+  String id;
+  String gender;
+  Integer age;
+  Date accepted;
+  String sickness;
+  String prescriptions;
+  String allergies;
+  String specialReqs;
+  * -- 1 Ward;
+  * -- 1 Team;
+}
+
+//$?[End_of_model]$?
+
+namespace -;
+
+
+class Team
+{
+  position 138 126 112.685 59.4602;
+}
+
+class Ward
+{
+  position 563 120 109 41.4625;
+}
+
+class ConsultantDoctor
+{
+  position 61 434 139.438 41.4625;
+  position.association ConsultantDoctor__Patient 141,39 0,173;
+  position.association ConsultantDoctor__Team 20,0 0,28;
+  position.association ConsultantDoctor__PatientWards 9,0 0,10;
+}
+
+class JuniorDoctor
+{
+  position 249 433 109 41.4625;
+}
+
+class Team
+{
+  position 138 126 112.685 59.4602;
+}
+
+class Ward
+{
+  position 563 120 109 0;
+}
+
+class Team
+{
+  position 138 126 112.685 59.4602;
+  position.association Doctor__Team 51,58 30,0;
+  position.association DoctorWards__Team 5,59 109,0;
+}
+
+class Ward
+{
+  position 563 120 109 0;
+}
+
+class HospitalWards
+{
+  position 50 30 109 45;
+  position.association HospitalWards__Team 109,0 2,0;
+  position.association HospitalWards__Ward 121,2 0,10;
+}
+
+class DoctorWards
+{
+  position 50 330 109 45;
+}
+
+class PatientWards
+{
+  position.association PatientWards__Team 0,10 53,59;
+    position.association PatientWards__Ward 29,0 0,10;
+position 244 229 161.193 180.966;
+}
