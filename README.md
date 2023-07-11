@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on .NET Core and ASP.NET.<br>👯 I’m looking to collaborate on in my projects.<br>🤝 I’m looking for help with Cyber Security.<br>🌱 I am currently learning the upper stages of ASP.NET.<br>💬 You can ask anything you can think of. I would have learned too.<br>⚡ I am a fast learner. I enjoy improving myself.
+🔭 I’m currently working on .NET Core and ASP.NET.<br>👯 I’m looking to collaborate on in my projects.<br>🤝 I’m looking for help with Cyber Security.<br>🌱 I am currently learning the upper stages of .NET Core.<br>💬 You can ask anything you can think of. I would have learned too.<br>⚡ I am a fast learner. I enjoy improving myself.
 
 
 ## 🌐 Socials:
