@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on .NET<br>👯 I want to collaborate on my projects.<br>🤝 I’m looking for help with Cyber ​​Security<br>🌱 I’m currently learning Cyber ​​Security, Artificial Intelligence<br>💬 You can ask any question related to the mind.<br>
+# 💫 HAKKIMDA:
+
+Merhaba! Ben Fahrettin Solak. Bilgisayar Mühendisi adayıyım ve yazılım çözümleri olan tutkumla sürekli verimlilik ve gelişmeye odaklanıyorum. Tam kapsamlı geliştirme konusunda deneyim kazandıran bir yazılımcıyım ve özellikle C#, Java, ASP.NET gibi teknolojilere hakimim. Aynı zamanda web teknolojileri ve veritabanları konusunda da yetenekliyim. Proje ve geliştirme ekibi çalışması deneyimine sahibim ve yeni projelere her zaman açığım. Şu anda Recep Tayyip Erdoğan Üniversitesi'nde Bilgisayar Mühendisliği bölümünde eğitim görüyorum. GitHub profilimdeki projelerimi inceleyerek daha fazla bilgi edinebilirsiniz. Kodlama temelli günlük paylaşımları ve hayatı seviyorum, benimle birlikte yeni projeler yapmak için hazırız! ✨
+
+🔭 Şu anda .NET Core ve ASP.NET üzerinde çalışıyorum.<br>👯 Projelerimde işbirliği yapmak istiyorum.<br>🤝 Siber Güvenlik konusunda yardıma ihtiyacım var.<br>🌱 Şu anda .NET Core'un üst seviyelerini öğreniyorum.<br>💬 Akla gelebilecek herhangi bir soruyu sorabilirsiniz. Ben de öğrenmiş olurum.<br>⚡ Hızlı öğrenen biriyim. Kendimi geliştirmekten keyif alıyorum.
 
 
 ## 🌐 Socials:
