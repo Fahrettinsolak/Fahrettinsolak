@@ -6,7 +6,6 @@ Computer Engineer · Full-Stack & AI/ML Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahrettinsolak/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fahrettinsolak)
-[![Website](https://img.shields.io/badge/Website-ozdemirciler.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://ozdemirciler.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22167045)
 
 🇬🇧 [English](#english) &nbsp;|&nbsp; 🇹🇷 [Türkçe](#turkce)
